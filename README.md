@@ -10,7 +10,7 @@ English description | <a href="README_RU.md">Описание на русско�
 </p>
 
 <p align="center">
-      Modern Phishing Tool With Advanced Functionality
+      Modern Phishing Tool With Advanced Functionality 
 </p>
 <p align="center">
      PHISHING | KEYLOGGER | INFORMATION_COLLECTOR | ALL_IN_ONE_TOOL | SOCIALENGINEERING
@@ -28,7 +28,7 @@ English description | <a href="README_RU.md">Описание на русско�
 ## DISCLAIMER
 
 <p align="center">
-  TO BE USED FOR EDUCATIONAL PURPOSES ONLY
+  **TO BE USED FOR EDUCATIONAL PURPOSES ONLY**
 </p>
 
 The use of the HiddenEye & its resources/phishing-pages is **COMPLETE
